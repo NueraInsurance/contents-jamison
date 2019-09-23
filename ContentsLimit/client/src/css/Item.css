@@ -1,0 +1,16 @@
+.item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item-tail {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.value {
+    margin-right: 20px;
+}

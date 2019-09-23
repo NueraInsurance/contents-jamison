@@ -1,0 +1,8 @@
+.category-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.category-total {
+    margin-right: 20px;
+}
